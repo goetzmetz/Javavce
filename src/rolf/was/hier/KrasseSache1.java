@@ -1,6 +1,6 @@
 package rolf.was.hier;
 
-import .*;
+
 
 /*
  * To change this license header, choose License Headers in Project Properties.
